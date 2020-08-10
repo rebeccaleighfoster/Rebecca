@@ -1,5 +1,5 @@
 .me {
-  width: 45vw;
+  width: 35vw;
   border-radius: 50%;
   filter: grayscale(100%);
 }
@@ -40,6 +40,9 @@
   margin-bottom: 30px;
 }
 
+.basic-text{
+  font-size: 18px;
+}
 .form{
   margin: auto;
 }
