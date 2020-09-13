@@ -8,7 +8,7 @@
   filter: none;
 }
 
-.card-img-top{
+.card-img-top {
   filter: grayscale(100%);
   width: 100%;
 }
@@ -21,7 +21,7 @@
   height: 100%;
 }
 
-.row{
+.row {
   margin: 5%;
 }
 .skill {
@@ -40,25 +40,24 @@
   margin-bottom: 30px;
 }
 
-.basic-text{
+.basic-text {
   font-size: 18px;
 }
-.form{
-  margin: auto;
+.form {
+  width: 100%;
 }
 
-#recommendation p{
+#recommendation p,
+h2 {
   font-size: 18px;
 }
 
 @media (min-width: 768px) and (max-width: 990px) {
-  
-  .smallerSkill{
+  .smallerSkill {
     font-size: 16px;
   }
 
-  .skill{
-    height: 90%
+  .skill {
+    height: 90%;
   }
-
 }
